@@ -1,8 +1,3 @@
-//Vaishvi Shah
-//Computer Science 20
-//Henry Wise Wood High School
-//2023-2024 Semester 1
-
 import java.time.LocalDateTime;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
