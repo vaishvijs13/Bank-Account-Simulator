@@ -10,13 +10,6 @@ import java.util.ArrayList;
 
 public class Serializer 
 {
-
-  //note that if you replace ArrayList<MyClass> with your own type, you will need to have this type implement java.io.Serializable
-  // e.g 	
-  //		public class MyClass implements java.io.Serializable {...}
-  // and
-  //		public void serialize(ArrayList<MyClass> list, String fileName) {...}
-  //
   public void serialize(ArrayList<Transaction> list, String fileName) 
   {
     try {
