@@ -1,8 +1,10 @@
+package src;
 import java.io.*;
 import javax.swing.*;
 import java.awt.event.*;
 import java.awt.*;
 import javax.swing.border.EmptyBorder;
+
 import java.text.DecimalFormat;
 
 public class WindowOne extends JFrame implements WindowListener, ActionListener {
